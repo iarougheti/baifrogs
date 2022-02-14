@@ -1,0 +1,37 @@
+#ilana {
+    width: 500px;
+}
+h1 {
+    color: #880808 ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px; 
+}
+.body-text { 
+    font-size: 18px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#toad {
+    width: 500px;
+  
+    
+}
+#buildabearfrog {
+    width: 500px;
+}
+#poisonfrog {
+    width: 500px;
+}
+#crazyfrog {
+    width: 500px;
+  
+}
+.button {
+	background-color: rgb(61, 168, 115);
+	border:  2px solid rgb(31, 83, 57);
+	border-radius: 8px;
+	font-weight: italic;
+	color: rgb(0, 0, 0);
+	cursor: pointer;
+	display: inline-block;
+	padding: 10px 20px;
+}
